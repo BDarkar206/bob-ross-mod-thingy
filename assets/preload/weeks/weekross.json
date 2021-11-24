@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Bopeebo", "bob-ross", [146, 113, 253]],
+		["Fresh", "bob-ross", [146, 113, 253]],
+		["Dad Battle", "bob-ross", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "The Art of Painting",
+	"weekBefore": "week1",
+	"weekName": "Week Ross",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

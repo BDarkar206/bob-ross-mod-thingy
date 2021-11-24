@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-8,
+				-133
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ROSS LEFT NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				-139
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ROSS IDLE DANCE"
+		},
+		{
+			"offsets": [
+				0,
+				-145
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ROSS DOWN NOTE"
+		},
+		{
+			"offsets": [
+				-6,
+				-122
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ROSS UP NOTE"
+		},
+		{
+			"offsets": [
+				-104,
+				-128
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ROSS RIGHT NOTE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RossyBobby_MF_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bob-ross",
+	"flip_x": false,
+	"healthbar_colors": [
+		87,
+		197,
+		115
+	],
+	"camera_position": [
+		-50,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
